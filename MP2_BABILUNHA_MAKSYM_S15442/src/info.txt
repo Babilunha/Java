@@ -1,0 +1,7 @@
+Connections:
+//1) binary (Сustomer * - 1 PersonalTrainer)
+//2) attribute (gym * - * manager) (assignment is the middle class)
+//3) qualified (room 1 - * equipment)
+//4) composition (gym 1 - 1..* room)
+
+Room is an inner class of the Gym
